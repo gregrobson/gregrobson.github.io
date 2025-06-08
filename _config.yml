@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "Greg Robson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "This needs expanding on."
+  bio    : "<i>I deny nothing, but doubt everything.</i><br>~ Lord Byron"
   location: "Birmingham, UK"
   links:
     - label: "Bluesky"
@@ -79,6 +79,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/gregrobson/"
+    - label: "/uses"
+      icon: "fa-solid fa-fw fa-computer"
+      url: "/uses"
 
 footer:
   links:
@@ -91,6 +94,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/gregrobson/"
+    - label: "/uses"
+      icon: "fa-solid fa-fw fa-computer"
+      url: "/uses"
 
 defaults:
   # _posts
