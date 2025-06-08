@@ -1,5 +1,5 @@
 ---
-permalink: /users/
+permalink: /uses/
 title: "Uses"
 tags:
   - tech
