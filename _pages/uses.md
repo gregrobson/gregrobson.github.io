@@ -4,6 +4,7 @@ title: "Uses"
 tags:
   - tech
 excerpt: "A collection of tools and technologies I use in my daily life, both personally and professionally."
+classes: wide
 ---
 
 ## Content here.
