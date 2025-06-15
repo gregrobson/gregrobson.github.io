@@ -34,6 +34,6 @@ I think being able to evidence such skills is going to be incredibly relevant - 
 
 I don't know where everything is going exactly, so excuse the jumble of thoughts.[^2] All I can say for certain is that everything is happening **fast** - I've not seen a technology be adopted quite so fast in all my life.
 
-[^1] I'm so sorry to see the [decline of Stack Overflow](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/) - I feel that wasn't just ChatGPT killing that off though. Something to consider another time.
+[^1]: I'm so sorry to see the [decline of Stack Overflow](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/) - I feel that wasn't just ChatGPT killing that off though. Something to consider another time.
 
-[^2] Also this is my first blog post so writing something that isn't code is a bit unnatural right now!
+[^2]: Also this is my first blog post so writing something that isn't code is a bit unnatural right now!
