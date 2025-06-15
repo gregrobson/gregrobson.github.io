@@ -84,7 +84,7 @@ author:
       url: "https://codepen.io/gregrobson"
     - label: "/uses"
       icon: "fa-solid fa-fw fa-computer"
-      url: "/uses"
+      url: "/uses/"
 
 footer:
   links:
@@ -102,7 +102,7 @@ footer:
       url: "https://codepen.io/gregrobson"
     - label: "/uses"
       icon: "fa-solid fa-fw fa-computer"
-      url: "/uses"
+      url: "/uses/"
 
 defaults:
   # _posts
