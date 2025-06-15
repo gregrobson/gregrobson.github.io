@@ -1,6 +1,7 @@
 ---
 title: "I guess I'm blogging now?"
 date: 2025-06-15T16:43:00+01:00
+description: "It looks like the rise of A.I. means that (human powered) content might be more relevant than ever?"
 categories:
   - personal
 tags:
