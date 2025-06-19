@@ -1,6 +1,6 @@
 ---
 title: "Using groups in the console"
-date: 2025-06-15T22:53:00+01:00
+date: 2025-06-19T22:53:00+01:00
 description: "The console.group() feature can help you diagnose issues in your web apps when you are using loops"
 categories:
   - coding
