@@ -20,7 +20,7 @@ subtitle: "Curious Developer"
 description: >- # this means to ignore newlines until "baseurl:"
   Personal site, exploring whatever takes my interest at the time. Always
   keen to learn and explore tech both new and old. Thoughts are my own.
-site_url: https://gregrobson.uk
+url: https://gregrobson.uk
 github_username: gregrobson
 breadcrumbs: true
 search: true
